@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="9" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-30T20:07:20 WAT" name="Default Suite" finished-at="2023-03-30T20:10:16 WAT" duration-ms="176351">
+    <groups>
+    </groups>
+    <test started-at="2023-03-30T20:07:20 WAT" name="Pantheonsite" finished-at="2023-03-30T20:10:16 WAT" duration-ms="176351">
+      <class name="testng.PantheonsiteDesktop">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:20 WAT" name="setUp" finished-at="2023-03-30T20:07:32 WAT" duration-ms="11799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="menuListTest()[pri:1, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:32 WAT" name="menuListTest" finished-at="2023-03-30T20:07:32 WAT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuListTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:32 WAT" name="endMethod" finished-at="2023-03-30T20:07:32 WAT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:32 WAT" name="setUp" finished-at="2023-03-30T20:07:40 WAT" duration-ms="7907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="menuLogoTest()[pri:2, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:40 WAT" name="menuLogoTest" finished-at="2023-03-30T20:07:40 WAT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuLogoTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:40 WAT" name="endMethod" finished-at="2023-03-30T20:07:40 WAT" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:40 WAT" name="setUp" finished-at="2023-03-30T20:07:56 WAT" duration-ms="16276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="menuCTATest()[pri:3, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:56 WAT" name="menuCTATest" finished-at="2023-03-30T20:07:56 WAT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuCTATest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:56 WAT" name="endMethod" finished-at="2023-03-30T20:07:57 WAT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:07:57 WAT" name="setUp" finished-at="2023-03-30T20:08:08 WAT" duration-ms="11466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="headerColorTest()[pri:4, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:08 WAT" name="headerColorTest" finished-at="2023-03-30T20:08:08 WAT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerColorTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:08 WAT" name="endMethod" finished-at="2023-03-30T20:08:08 WAT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:08 WAT" name="setUp" finished-at="2023-03-30T20:08:15 WAT" duration-ms="6881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="menuCTAColorTest()[pri:4, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:15 WAT" name="menuCTAColorTest" finished-at="2023-03-30T20:08:16 WAT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuCTAColorTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:16 WAT" name="endMethod" finished-at="2023-03-30T20:08:16 WAT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:16 WAT" name="setUp" finished-at="2023-03-30T20:08:22 WAT" duration-ms="5926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUsCTATest()[pri:5, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:22 WAT" name="contactUsCTATest" finished-at="2023-03-30T20:08:32 WAT" duration-ms="10559" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for url to contain "contact-us". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:65510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d6de58965236e8a4e11b2bb97b20561]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "contact-us". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:65510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d6de58965236e8a4e11b2bb97b20561
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at testng.PantheonsiteDesktop.contactUsCTATest(PantheonsiteDesktop.java:124)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsCTATest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:32 WAT" name="endMethod" finished-at="2023-03-30T20:08:32 WAT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:32 WAT" name="setUp" finished-at="2023-03-30T20:08:41 WAT" duration-ms="8868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoReloadTest()[pri:6, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:41 WAT" name="logoReloadTest" finished-at="2023-03-30T20:08:46 WAT" duration-ms="5096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoReloadTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:46 WAT" name="endMethod" finished-at="2023-03-30T20:08:47 WAT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:47 WAT" name="setUp" finished-at="2023-03-30T20:08:56 WAT" duration-ms="9762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="companyMenuTest()[pri:7, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:56 WAT" name="companyMenuTest" finished-at="2023-03-30T20:08:57 WAT" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyMenuTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:57 WAT" name="endMethod" finished-at="2023-03-30T20:08:57 WAT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:08:57 WAT" name="setUp" finished-at="2023-03-30T20:09:07 WAT" duration-ms="9733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="careerMenuTest()[pri:8, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:07 WAT" name="careerMenuTest" finished-at="2023-03-30T20:09:07 WAT" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careerMenuTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:07 WAT" name="endMethod" finished-at="2023-03-30T20:09:07 WAT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:07 WAT" name="setUp" finished-at="2023-03-30T20:09:14 WAT" duration-ms="7118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="experienceMenuTest()[pri:9, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:14 WAT" name="experienceMenuTest" finished-at="2023-03-30T20:09:15 WAT" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- experienceMenuTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:15 WAT" name="endMethod" finished-at="2023-03-30T20:09:15 WAT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:15 WAT" name="setUp" finished-at="2023-03-30T20:09:22 WAT" duration-ms="6716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="subMenuListTest()[pri:10, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:22 WAT" name="subMenuListTest" finished-at="2023-03-30T20:09:22 WAT" duration-ms="47" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at testng.PantheonsiteDesktop.subMenuListTest(PantheonsiteDesktop.java:227)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMenuListTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:22 WAT" name="endMethod" finished-at="2023-03-30T20:09:22 WAT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:22 WAT" name="setUp" finished-at="2023-03-30T20:09:28 WAT" duration-ms="5766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TwitterLinkTest()[pri:11, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:28 WAT" name="TwitterLinkTest" finished-at="2023-03-30T20:09:38 WAT" duration-ms="10473" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for url to contain "twitter". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49657}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 36b482088a423a19cbb5877f613b8b63]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "twitter". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49657}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 36b482088a423a19cbb5877f613b8b63
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at testng.PantheonsiteDesktop.TwitterLinkTest(PantheonsiteDesktop.java:252)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterLinkTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:38 WAT" name="endMethod" finished-at="2023-03-30T20:09:38 WAT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:38 WAT" name="setUp" finished-at="2023-03-30T20:09:46 WAT" duration-ms="7639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LinkedinLinkTest()[pri:12, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:46 WAT" name="LinkedinLinkTest" finished-at="2023-03-30T20:09:56 WAT" duration-ms="10485" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for url to contain "linkedin". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49775}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35fe37d3275aa28b537246eb6097d65a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "linkedin". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49775}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35fe37d3275aa28b537246eb6097d65a
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at testng.PantheonsiteDesktop.LinkedinLinkTest(PantheonsiteDesktop.java:272)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkedinLinkTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:56 WAT" name="endMethod" finished-at="2023-03-30T20:09:57 WAT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:09:57 WAT" name="setUp" finished-at="2023-03-30T20:10:05 WAT" duration-ms="8813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InstagramLinkTest()[pri:13, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:10:05 WAT" name="InstagramLinkTest" finished-at="2023-03-30T20:10:16 WAT" duration-ms="10415" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for url to contain "instagram". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 12d7c49eefbc88856da58f918ecb687e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "instagram". Current url: "https://dev-bsa-dev-test.pantheonsite.io/#/" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Enikeles-MBP', ip: 'fe80:0:0:0:1cc6:8d0c:76a6:537f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.146, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: /var/folders/g8/rx17rbh5077...}, goog:chromeOptions: {debuggerAddress: localhost:49921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 12d7c49eefbc88856da58f918ecb687e
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at testng.PantheonsiteDesktop.InstagramLinkTest(PantheonsiteDesktop.java:292)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InstagramLinkTest -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:testng.PantheonsiteDesktop@5a4aa2f2]" started-at="2023-03-30T20:10:16 WAT" name="endMethod" finished-at="2023-03-30T20:10:16 WAT" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+      </class> <!-- testng.PantheonsiteDesktop -->
+    </test> <!-- Pantheonsite -->
+  </suite> <!-- Default Suite -->
+</testng-results>
